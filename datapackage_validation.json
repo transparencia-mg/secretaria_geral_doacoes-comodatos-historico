@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.05,
+  "time": 0.06,
   "errors": [],
   "tasks": [
     {
@@ -118,13 +118,13 @@
         "title": "Doações e comodatos - Selo Amigo de Minas Gerais - Histórico",
         "state": "active",
         "stats": {
-          "hash": "0c2c6e2ca5265b0dde5f08834cf67330",
-          "bytes": 113387,
+          "hash": "18f937c68ed7178307ca2176ae333613",
+          "bytes": 113479,
           "fields": 12,
           "rows": 395
         }
       },
-      "time": 0.033,
+      "time": 0.034,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -640,7 +640,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "R$ 11.622,00",
+          "cell": "\t R$ 11.622,00  ",
           "fieldName": "VALOR",
           "fieldNumber": 9,
           "fieldPosition": 9,
@@ -653,7 +653,7 @@
             "Doação - Manifestação de Interesse",
             "5",
             "Indeterminado",
-            "R$ 11.622,00",
+            "\t R$ 11.622,00  ",
             "BLR",
             "1320.01.0132845/2023-43",
             ""
@@ -668,7 +668,7 @@
             "#cell"
           ],
           "note": "type is \"number/default\"",
-          "message": "Type error in the cell \"R$ 11.622,00\" in row \"216\" and field \"VALOR\" at position \"9\": type is \"number/default\"",
+          "message": "Type error in the cell \"\t R$ 11.622,00  \" in row \"216\" and field \"VALOR\" at position \"9\": type is \"number/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -736,13 +736,13 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "-",
+          "cell": " -",
           "fieldName": "CODIGO_ORGAO_ENTIDADE",
           "fieldNumber": 2,
           "fieldPosition": 2,
           "cells": [
             "2024",
-            "-",
+            " -",
             "IEPHA",
             "089.425.606-87",
             "Carlos Bernardo Bracher",
@@ -764,17 +764,17 @@
             "#cell"
           ],
           "note": "type is \"number/default\"",
-          "message": "Type error in the cell \"-\" in row \"340\" and field \"CODIGO_ORGAO_ENTIDADE\" at position \"2\": type is \"number/default\"",
+          "message": "Type error in the cell \" -\" in row \"340\" and field \"CODIGO_ORGAO_ENTIDADE\" at position \"2\": type is \"number/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "-",
+          "cell": " -",
           "fieldName": "CODIGO_ORGAO_ENTIDADE",
           "fieldNumber": 2,
           "fieldPosition": 2,
           "cells": [
             "2024",
-            "-",
+            " -",
             "JUCEMG",
             "17.271.982/0001-59",
             "Federação do Comércio de Bens, Serviço e Turismo de Minas Gerais - FECOMÉRCIO MG",
@@ -796,17 +796,17 @@
             "#cell"
           ],
           "note": "type is \"number/default\"",
-          "message": "Type error in the cell \"-\" in row \"341\" and field \"CODIGO_ORGAO_ENTIDADE\" at position \"2\": type is \"number/default\"",
+          "message": "Type error in the cell \" -\" in row \"341\" and field \"CODIGO_ORGAO_ENTIDADE\" at position \"2\": type is \"number/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "-",
+          "cell": " -",
           "fieldName": "CODIGO_ORGAO_ENTIDADE",
           "fieldNumber": 2,
           "fieldPosition": 2,
           "cells": [
             "2024",
-            "-",
+            " -",
             "DER",
             "02.131.267/0001-43",
             "HARSCO MINERAIS LTDA.",
@@ -828,7 +828,7 @@
             "#cell"
           ],
           "note": "type is \"number/default\"",
-          "message": "Type error in the cell \"-\" in row \"342\" and field \"CODIGO_ORGAO_ENTIDADE\" at position \"2\": type is \"number/default\"",
+          "message": "Type error in the cell \" -\" in row \"342\" and field \"CODIGO_ORGAO_ENTIDADE\" at position \"2\": type is \"number/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -838,7 +838,7 @@
           "fieldPosition": 9,
           "cells": [
             "2024",
-            "-",
+            " -",
             "DER",
             "02.131.267/0001-43",
             "HARSCO MINERAIS LTDA.",
@@ -864,13 +864,13 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "-",
+          "cell": " -",
           "fieldName": "CODIGO_ORGAO_ENTIDADE",
           "fieldNumber": 2,
           "fieldPosition": 2,
           "cells": [
             "2024",
-            "-",
+            " -",
             "UNIMONTES",
             "00.394.460/0096-02",
             "Ministério da Fazenda por meio da Receita Federal do Brasil",
@@ -892,17 +892,17 @@
             "#cell"
           ],
           "note": "type is \"number/default\"",
-          "message": "Type error in the cell \"-\" in row \"343\" and field \"CODIGO_ORGAO_ENTIDADE\" at position \"2\": type is \"number/default\"",
+          "message": "Type error in the cell \" -\" in row \"343\" and field \"CODIGO_ORGAO_ENTIDADE\" at position \"2\": type is \"number/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "-",
+          "cell": " -",
           "fieldName": "CODIGO_ORGAO_ENTIDADE",
           "fieldNumber": 2,
           "fieldPosition": 2,
           "cells": [
             "2024",
-            "-",
+            " -",
             "UEMG",
             "20.320.503/0001-51",
             "Fundação Arthur Bernardes (FUNARBE)",
@@ -924,17 +924,17 @@
             "#cell"
           ],
           "note": "type is \"number/default\"",
-          "message": "Type error in the cell \"-\" in row \"344\" and field \"CODIGO_ORGAO_ENTIDADE\" at position \"2\": type is \"number/default\"",
+          "message": "Type error in the cell \" -\" in row \"344\" and field \"CODIGO_ORGAO_ENTIDADE\" at position \"2\": type is \"number/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "-",
+          "cell": " -",
           "fieldName": "CODIGO_ORGAO_ENTIDADE",
           "fieldNumber": 2,
           "fieldPosition": 2,
           "cells": [
             "2024",
-            "-",
+            " -",
             "UEMG",
             "00.394.460/0102-95",
             "Receita Federal do Brasil - RFBR",
@@ -956,7 +956,7 @@
             "#cell"
           ],
           "note": "type is \"number/default\"",
-          "message": "Type error in the cell \"-\" in row \"345\" and field \"CODIGO_ORGAO_ENTIDADE\" at position \"2\": type is \"number/default\"",
+          "message": "Type error in the cell \" -\" in row \"345\" and field \"CODIGO_ORGAO_ENTIDADE\" at position \"2\": type is \"number/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
